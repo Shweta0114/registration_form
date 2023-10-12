@@ -1,2 +1,2 @@
 # registration_form
-simle form creation
+simple form creation
